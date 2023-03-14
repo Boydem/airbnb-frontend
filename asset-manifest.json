@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/airbnb-frontend/static/css/main.68191deb.css",
-    "main.js": "/airbnb-frontend/static/js/main.d2e12972.js",
+    "main.css": "/airbnb-frontend/static/css/main.43813b7e.css",
+    "main.js": "/airbnb-frontend/static/js/main.a649d916.js",
     "static/media/Cereal-Medium.ttf": "/airbnb-frontend/static/media/Cereal-Medium.ae01f3875c40f5fd6c2c.ttf",
     "static/media/Cereal-Bold.ttf": "/airbnb-frontend/static/media/Cereal-Bold.2c4dcd58965a1de936c0.ttf",
     "static/media/Cereal-Book.ttf": "/airbnb-frontend/static/media/Cereal-Book.0c8823bcf9f4ea24198a.ttf",
@@ -78,11 +78,11 @@
     "static/media/tv.svg": "/airbnb-frontend/static/media/tv.340c73cdc1ae9368ad7b5eb4da4eef61.svg",
     "static/media/bed-linens.svg": "/airbnb-frontend/static/media/bed-linens.6d11d0826cbe91cb3426c5bbb77a785d.svg",
     "static/media/long-term-stays-allowed.svg": "/airbnb-frontend/static/media/long-term-stays-allowed.02f05d6faed4b416ac9dde7d493f64ae.svg",
-    "main.68191deb.css.map": "/airbnb-frontend/static/css/main.68191deb.css.map",
-    "main.d2e12972.js.map": "/airbnb-frontend/static/js/main.d2e12972.js.map"
+    "main.43813b7e.css.map": "/airbnb-frontend/static/css/main.43813b7e.css.map",
+    "main.a649d916.js.map": "/airbnb-frontend/static/js/main.a649d916.js.map"
   },
   "entrypoints": [
-    "static/css/main.68191deb.css",
-    "static/js/main.d2e12972.js"
+    "static/css/main.43813b7e.css",
+    "static/js/main.a649d916.js"
   ]
 }
